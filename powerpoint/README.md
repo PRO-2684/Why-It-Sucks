@@ -1,7 +1,4 @@
 # PowerPoint
 
-<details><summary>Automatically selects the "Enter" character at the end of the line</summary>
+- [Automatically selects the "Enter" character at the end of the line](./powerpoint-select.mp4)
 
-![powerpoint-select](./powerpoint-select.mp4)
-
-</details>
