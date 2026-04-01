@@ -5,6 +5,7 @@
 ## Contents
 
 - [PowerPoint](./powerpoint)
+- [Python](./python)
 
 ## License
 
