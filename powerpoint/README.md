@@ -1,4 +1,7 @@
-# PowerPoint
+# Why PowerPoint Sucks
 
-- [Automatically selects the "Enter" character at the end of the line](./powerpoint-select.mp4)
+<details><summary>It automatically selects the carriage return character at the end of the line.</summary>
 
+![powerpoint-select](./powerpoint-select.webp)
+
+</details>
