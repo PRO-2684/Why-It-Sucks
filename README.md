@@ -6,6 +6,7 @@
 
 - [PowerPoint](./powerpoint)
 - [Python](./python)
+- [WeChat](./wechat)
 
 ## License
 
